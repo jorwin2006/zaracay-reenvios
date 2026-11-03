@@ -8,7 +8,7 @@ type Trip={id:string;destination_id:string;departure_at:string;status:Status;des
 type Guide={id:string;issuer:string;series:string;guide_number:string;origin:string;final_destination:string;parcels:number;recipient:string|null;note:string|null;verified_parcels?:number;verified_by?:string|null;verified_at?:string|null;mismatch_confirmed?:boolean;mismatch_note?:string};
 type Detail={trip:Trip;guides:Guide[]};
 type AuthorizedNetwork={id:string;description:string;cidr:string;active:boolean};
-const API='/api';
+const API=(import.meta.env.VITE_API_BASE_URL || '').replace(/\/$/, '') + '/api';
 type ManualGuideForm={issuer:string;series:string;guideNumber:string;origin:string;finalDestination:string;parcels:string;recipient:string;note:string};
 // Campos internos requeridos por la API; no se solicitan al operador.
 const emptyManualGuide=():ManualGuideForm=>({issuer:'REENVIO',series:'',guideNumber:'',origin:'',finalDestination:'',parcels:'1',recipient:'',note:''});
