@@ -16,3 +16,21 @@
 .verifyCount button { width:28px; height:28px; font-weight:800; background:#eff5f2; color:#155c48; border:1px solid #cbded6; border-radius:7px; cursor:pointer; }
 .verifyCount button:disabled { opacity:.35; cursor:not-allowed; }
 .verifyCount strong { font-variant-numeric:tabular-nums; min-width:38px; text-align:center; }
+
+/* Panel de turnos S45 */
+.scheduleBanner,.scheduleDetails{display:flex;flex-direction:column;gap:8px;padding:15px;margin:12px 0;border-radius:10px;background:#f1f8f4;border:1px solid #cce4d7;color:#245442;font-size:13px}.scheduleBanner small{color:#5c7668}.scheduleWarning{display:block;color:#9b4e18;background:#fff2dc;border:1px solid #f3ddb2;padding:8px;border-radius:6px;font-size:12px}.scheduleConfirm{display:flex!important;flex-direction:row!important;align-items:center!important;font-weight:600!important;margin:5px 0!important}.scheduleConfirm input{width:auto!important}.shiftMeta{font-size:11px;color:#5c8874;margin-top:5px}
+
+/* Registro múltiple de guías y asignación manual de unidades */
+.batchQueue{border:1px solid #cbded6;background:#f1f8f4;border-radius:10px;padding:12px;margin:12px 0 18px;max-height:225px;overflow-y:auto}
+.batchRow{display:flex;gap:8px;justify-content:space-between;align-items:center;border-top:1px solid #dbe8e0;padding:9px 0;font-size:12px}
+.batchRow button{border:1px solid #cbded6;border-radius:6px;background:white;color:#185d49;padding:6px;margin-left:4px}
+.modalActions{flex-wrap:wrap}.dialog input{display:block;width:100%;padding:10px;margin:8px 0;border:1px solid #ccdcd3;border-radius:8px}
+@media(max-width:670px){.batchRow{align-items:flex-start;flex-direction:column}}
+
+/* Cambiar encomienda entre viajes ya creados */
+.moveGuideDialog {width:min(620px,100%)}
+.moveGuideLabel {display:flex;flex-direction:column;gap:7px;font-weight:700;font-size:12px;margin:15px 0;color:#385548}
+.moveGuideLabel select,.moveGuideLabel input {width:100%;border:1px solid #cbded6;border-radius:8px;padding:11px;background:#fff;color:#18392c}
+.moveGuideCheck {display:flex;gap:10px;align-items:flex-start;margin:15px 0;line-height:1.6;font-size:13px}
+.moveGuideCheck input {margin-top:4px;flex-shrink:0}
+.moveGuideWarning {background:#fff7e7;border:1px solid #ead6a1;border-radius:8px;padding:12px;color:#805d17!important}

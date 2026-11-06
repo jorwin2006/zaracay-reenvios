@@ -1,0 +1,1347 @@
+{
+  "semana": "S45-2026",
+  "desde": "2026-11-02",
+  "hasta": "2026-11-08",
+  "dias": [
+    "L",
+    "M",
+    "M",
+    "J",
+    "V",
+    "S",
+    "D"
+  ],
+  "turnos": [
+    {
+      "id": "quito-330",
+      "destino": "QUITO",
+      "hora": "03:30",
+      "unidades": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        84
+      ],
+      "retorno": "9:20",
+      "despacho": null
+    },
+    {
+      "id": "quito-430",
+      "destino": "QUITO",
+      "hora": "04:30",
+      "unidades": [
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24
+      ],
+      "retorno": "11:00",
+      "despacho": null
+    },
+    {
+      "id": "quito-515",
+      "destino": "QUITO",
+      "hora": "05:15",
+      "unidades": [
+        29,
+        1,
+        64,
+        32,
+        29,
+        1,
+        64
+      ],
+      "retorno": "12:00",
+      "despacho": null
+    },
+    {
+      "id": "quito-640",
+      "destino": "QUITO",
+      "hora": "06:40",
+      "unidades": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "retorno": "12:45",
+      "despacho": null
+    },
+    {
+      "id": "quito-740",
+      "destino": "QUITO",
+      "hora": "07:40",
+      "unidades": [
+        79,
+        80,
+        81,
+        82,
+        84,
+        85,
+        86
+      ],
+      "retorno": "13:30",
+      "despacho": null
+    },
+    {
+      "id": "quito-840",
+      "destino": "QUITO",
+      "hora": "08:40",
+      "unidades": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "retorno": "14:40",
+      "despacho": null
+    },
+    {
+      "id": "quito-940",
+      "destino": "QUITO",
+      "hora": "09:40",
+      "unidades": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "retorno": "15:40",
+      "despacho": null
+    },
+    {
+      "id": "quito-1040",
+      "destino": "QUITO",
+      "hora": "10:40",
+      "unidades": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "retorno": "18:00",
+      "despacho": null
+    },
+    {
+      "id": "quito-1140",
+      "destino": "QUITO",
+      "hora": "11:40",
+      "unidades": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "retorno": "18:30",
+      "despacho": null
+    },
+    {
+      "id": "quito-1215",
+      "destino": "QUITO",
+      "hora": "12:15",
+      "unidades": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "retorno": "19:00",
+      "despacho": null
+    },
+    {
+      "id": "quito-1245",
+      "destino": "QUITO",
+      "hora": "12:45",
+      "unidades": [
+        1,
+        64,
+        32,
+        29,
+        1,
+        64,
+        32
+      ],
+      "retorno": "19:40",
+      "despacho": null
+    },
+    {
+      "id": "quito-1330",
+      "destino": "QUITO",
+      "hora": "13:30",
+      "unidades": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "retorno": "20:20",
+      "despacho": null
+    },
+    {
+      "id": "quito-1415",
+      "destino": "QUITO",
+      "hora": "14:15",
+      "unidades": [
+        64,
+        32,
+        29,
+        1,
+        64,
+        32,
+        29
+      ],
+      "retorno": "21:00",
+      "despacho": null
+    },
+    {
+      "id": "quito-1500",
+      "destino": "QUITO",
+      "hora": "15:00",
+      "unidades": [
+        30,
+        31,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "retorno": "3:35",
+      "despacho": null
+    },
+    {
+      "id": "quito-1545",
+      "destino": "QUITO",
+      "hora": "15:45",
+      "unidades": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "retorno": "4:25",
+      "despacho": null
+    },
+    {
+      "id": "quito-1630",
+      "destino": "QUITO",
+      "hora": "16:30",
+      "unidades": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "retorno": "5:40",
+      "despacho": null
+    },
+    {
+      "id": "quito-1715",
+      "destino": "QUITO",
+      "hora": "17:15",
+      "unidades": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "retorno": "5:00",
+      "despacho": null
+    },
+    {
+      "id": "quito-1800",
+      "destino": "QUITO",
+      "hora": "18:00",
+      "unidades": [
+        61,
+        62,
+        63,
+        65,
+        66,
+        67,
+        68
+      ],
+      "retorno": "6:30",
+      "despacho": null
+    },
+    {
+      "id": "quito-1845",
+      "destino": "QUITO",
+      "hora": "18:45",
+      "unidades": [
+        32,
+        29,
+        1,
+        64,
+        32,
+        29,
+        1
+      ],
+      "retorno": "7:40",
+      "despacho": null
+    },
+    {
+      "id": "quito-1915",
+      "destino": "QUITO",
+      "hora": "19:15",
+      "unidades": [
+        29,
+        1,
+        64,
+        32,
+        29,
+        1,
+        64
+      ],
+      "retorno": "11:30",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-100",
+      "destino": "GUAYAQUIL",
+      "hora": "01:00",
+      "unidades": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        30
+      ],
+      "retorno": "10:05",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-200",
+      "destino": "GUAYAQUIL",
+      "hora": "02:00",
+      "unidades": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "retorno": "10:30",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-300",
+      "destino": "GUAYAQUIL",
+      "hora": "03:00",
+      "unidades": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "retorno": "10:55",
+      "despacho": "2:40"
+    },
+    {
+      "id": "guayaquil-320",
+      "destino": "GUAYAQUIL",
+      "hora": "03:20",
+      "unidades": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "retorno": "11:20",
+      "despacho": "3:10"
+    },
+    {
+      "id": "guayaquil-340",
+      "destino": "GUAYAQUIL",
+      "hora": "03:40",
+      "unidades": [
+        80,
+        81,
+        82,
+        84,
+        85,
+        86,
+        87
+      ],
+      "retorno": "11:45",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-420",
+      "destino": "GUAYAQUIL",
+      "hora": "04:20",
+      "unidades": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "retorno": "12:40",
+      "despacho": "4:10"
+    },
+    {
+      "id": "guayaquil-440",
+      "destino": "GUAYAQUIL",
+      "hora": "04:40",
+      "unidades": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "retorno": "12:10",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-520",
+      "destino": "GUAYAQUIL",
+      "hora": "05:20",
+      "unidades": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "retorno": "13:10",
+      "despacho": "5:10"
+    },
+    {
+      "id": "guayaquil-540",
+      "destino": "GUAYAQUIL",
+      "hora": "05:40",
+      "unidades": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "retorno": "13:40",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-615",
+      "destino": "GUAYAQUIL",
+      "hora": "06:15",
+      "unidades": [
+        63,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "retorno": "14:10",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-645",
+      "destino": "GUAYAQUIL",
+      "hora": "06:45",
+      "unidades": [
+        26,
+        27,
+        28,
+        30,
+        31,
+        33,
+        34
+      ],
+      "retorno": "14:40",
+      "despacho": "6:35"
+    },
+    {
+      "id": "guayaquil-700",
+      "destino": "GUAYAQUIL",
+      "hora": "07:00",
+      "unidades": [
+        28,
+        30,
+        31,
+        33,
+        34,
+        35,
+        36
+      ],
+      "retorno": "15:05",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-725",
+      "destino": "GUAYAQUIL",
+      "hora": "07:25",
+      "unidades": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "retorno": "15:30",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-750",
+      "destino": "GUAYAQUIL",
+      "hora": "07:50",
+      "unidades": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "retorno": "15:55",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-815",
+      "destino": "GUAYAQUIL",
+      "hora": "08:15",
+      "unidades": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "retorno": "16:20",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-845",
+      "destino": "GUAYAQUIL",
+      "hora": "08:45",
+      "unidades": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "retorno": "16:45",
+      "despacho": "8:40"
+    },
+    {
+      "id": "guayaquil-915",
+      "destino": "GUAYAQUIL",
+      "hora": "09:15",
+      "unidades": [
+        72,
+        73,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "retorno": "17:10",
+      "despacho": "9:05"
+    },
+    {
+      "id": "guayaquil-935",
+      "destino": "GUAYAQUIL",
+      "hora": "09:35",
+      "unidades": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "retorno": "17:40",
+      "despacho": "9:30"
+    },
+    {
+      "id": "guayaquil-1005",
+      "destino": "GUAYAQUIL",
+      "hora": "10:05",
+      "unidades": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        65
+      ],
+      "retorno": "18:15",
+      "despacho": "9:55"
+    },
+    {
+      "id": "guayaquil-1035",
+      "destino": "GUAYAQUIL",
+      "hora": "10:35",
+      "unidades": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        65,
+        66
+      ],
+      "retorno": "18:45",
+      "despacho": "10:20"
+    },
+    {
+      "id": "guayaquil-1050",
+      "destino": "GUAYAQUIL",
+      "hora": "10:50",
+      "unidades": [
+        60,
+        61,
+        62,
+        63,
+        65,
+        66,
+        67
+      ],
+      "retorno": "20:15",
+      "despacho": "10:45"
+    },
+    {
+      "id": "guayaquil-1130",
+      "destino": "GUAYAQUIL",
+      "hora": "11:30",
+      "unidades": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23
+      ],
+      "retorno": "22:30",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1210",
+      "destino": "GUAYAQUIL",
+      "hora": "12:10",
+      "unidades": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "retorno": "21:00",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1240",
+      "destino": "GUAYAQUIL",
+      "hora": "12:40",
+      "unidades": [
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "retorno": "5:30",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1310",
+      "destino": "GUAYAQUIL",
+      "hora": "13:10",
+      "unidades": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "retorno": "4:30",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1340",
+      "destino": "GUAYAQUIL",
+      "hora": "13:40",
+      "unidades": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "retorno": "3:30",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1415",
+      "destino": "GUAYAQUIL",
+      "hora": "14:15",
+      "unidades": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        84
+      ],
+      "retorno": "3:00",
+      "despacho": "14:10"
+    },
+    {
+      "id": "guayaquil-1445",
+      "destino": "GUAYAQUIL",
+      "hora": "14:45",
+      "unidades": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "retorno": "4:00",
+      "despacho": "14:40"
+    },
+    {
+      "id": "guayaquil-1520",
+      "destino": "GUAYAQUIL",
+      "hora": "15:20",
+      "unidades": [
+        71,
+        72,
+        73,
+        75,
+        76,
+        77,
+        78
+      ],
+      "retorno": "5:00",
+      "despacho": "15:10"
+    },
+    {
+      "id": "guayaquil-1545",
+      "destino": "GUAYAQUIL",
+      "hora": "15:45",
+      "unidades": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        22
+      ],
+      "retorno": "5:55",
+      "despacho": "15:40"
+    },
+    {
+      "id": "guayaquil-1610",
+      "destino": "GUAYAQUIL",
+      "hora": "16:10",
+      "unidades": [
+        31,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "retorno": "6:20",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1640",
+      "destino": "GUAYAQUIL",
+      "hora": "16:40",
+      "unidades": [
+        20,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "retorno": "6:45",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1710",
+      "destino": "GUAYAQUIL",
+      "hora": "17:10",
+      "unidades": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "retorno": "7:10",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1750",
+      "destino": "GUAYAQUIL",
+      "hora": "17:50",
+      "unidades": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "retorno": "7:35",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1830",
+      "destino": "GUAYAQUIL",
+      "hora": "18:30",
+      "unidades": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "retorno": "8:00",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-1930",
+      "destino": "GUAYAQUIL",
+      "hora": "19:30",
+      "unidades": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "retorno": "8:25",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-2030",
+      "destino": "GUAYAQUIL",
+      "hora": "20:30",
+      "unidades": [
+        19,
+        20,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "retorno": "8:50",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-2130",
+      "destino": "GUAYAQUIL",
+      "hora": "21:30",
+      "unidades": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "retorno": "9:15",
+      "despacho": null
+    },
+    {
+      "id": "guayaquil-2230",
+      "destino": "GUAYAQUIL",
+      "hora": "22:30",
+      "unidades": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        75,
+        76
+      ],
+      "retorno": "9:40",
+      "despacho": null
+    },
+    {
+      "id": "shushufindi-1800",
+      "destino": "SHUSHUFINDI",
+      "hora": "18:00",
+      "unidades": [
+        85,
+        86,
+        87,
+        88,
+        89,
+        2,
+        4
+      ],
+      "retorno": "15:30",
+      "despacho": null
+    },
+    {
+      "id": "shushufindi-2200",
+      "destino": "SHUSHUFINDI",
+      "hora": "22:00",
+      "unidades": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "retorno": "20:30",
+      "despacho": null
+    },
+    {
+      "id": "shushufindi-2220",
+      "destino": "SHUSHUFINDI",
+      "hora": "22:20",
+      "unidades": [
+        76,
+        77,
+        80,
+        84,
+        85,
+        86,
+        87
+      ],
+      "retorno": "20:30",
+      "despacho": null
+    },
+    {
+      "id": "coca-1150",
+      "destino": "COCA",
+      "hora": "11:50",
+      "unidades": [
+        70,
+        71,
+        72,
+        73,
+        75,
+        76,
+        77
+      ],
+      "retorno": "10:15",
+      "despacho": null
+    },
+    {
+      "id": "coca-1730",
+      "destino": "COCA",
+      "hora": "17:30",
+      "unidades": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "retorno": "19:00",
+      "despacho": null
+    },
+    {
+      "id": "coca-1900",
+      "destino": "COCA",
+      "hora": "19:00",
+      "unidades": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "retorno": "13:30",
+      "despacho": null
+    },
+    {
+      "id": "coca-2000",
+      "destino": "COCA",
+      "hora": "20:00",
+      "unidades": [
+        82,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "retorno": "15:30",
+      "despacho": null
+    },
+    {
+      "id": "coca-2100",
+      "destino": "COCA",
+      "hora": "21:00",
+      "unidades": [
+        26,
+        27,
+        28,
+        30,
+        31,
+        33,
+        34
+      ],
+      "retorno": null,
+      "despacho": null
+    },
+    {
+      "id": "esmeraldas-0400",
+      "destino": "ESMERALDAS",
+      "hora": "04:00",
+      "unidades": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        30,
+        31
+      ],
+      "retorno": "9:35",
+      "despacho": null,
+      "revision": "El cuadro presenta 04:00/04:30 como horario combinado; confirmar el horario correcto antes de seleccionar."
+    },
+    {
+      "id": "esmeraldas-0430",
+      "destino": "ESMERALDAS",
+      "hora": "04:30",
+      "unidades": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        30,
+        31
+      ],
+      "retorno": "9:35",
+      "despacho": null,
+      "revision": "El cuadro presenta 04:00/04:30 como horario combinado; confirmar el horario correcto antes de seleccionar."
+    },
+    {
+      "id": "esmeraldas-600",
+      "destino": "ESMERALDAS",
+      "hora": "06:00",
+      "unidades": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "retorno": "10:45",
+      "despacho": null
+    },
+    {
+      "id": "esmeraldas-715",
+      "destino": "ESMERALDAS",
+      "hora": "07:15",
+      "unidades": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "retorno": "13:35",
+      "despacho": null
+    },
+    {
+      "id": "esmeraldas-915",
+      "destino": "ESMERALDAS",
+      "hora": "09:15",
+      "unidades": [
+        85,
+        86,
+        87,
+        88,
+        89,
+        2,
+        4
+      ],
+      "retorno": "14:10",
+      "despacho": null
+    },
+    {
+      "id": "esmeraldas-1145",
+      "destino": "ESMERALDAS",
+      "hora": "11:45",
+      "unidades": [
+        73,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "retorno": "5:25",
+      "despacho": null
+    },
+    {
+      "id": "esmeraldas-1520",
+      "destino": "ESMERALDAS",
+      "hora": "15:20",
+      "unidades": [
+        17,
+        18,
+        19,
+        20,
+        22,
+        23,
+        24
+      ],
+      "retorno": "7:45",
+      "despacho": null
+    },
+    {
+      "id": "manta-140",
+      "destino": "MANTA",
+      "hora": "01:40",
+      "unidades": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "retorno": "10:15",
+      "despacho": null
+    },
+    {
+      "id": "manta-230",
+      "destino": "MANTA",
+      "hora": "02:30",
+      "unidades": [
+        82,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "retorno": "13:15",
+      "despacho": null
+    },
+    {
+      "id": "manta-730",
+      "destino": "MANTA",
+      "hora": "07:30",
+      "unidades": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "retorno": "14:45",
+      "despacho": null
+    },
+    {
+      "id": "pedernales-200",
+      "destino": "PEDERNALES",
+      "hora": "02:00",
+      "unidades": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "retorno": "5:15",
+      "despacho": null
+    },
+    {
+      "id": "pedernales-1218",
+      "destino": "PEDERNALES",
+      "hora": "12:18",
+      "unidades": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "retorno": "23:30",
+      "despacho": null
+    },
+    {
+      "id": "huaquillas-000",
+      "destino": "HUAQUILLAS",
+      "hora": "00:00",
+      "unidades": [
+        79,
+        80,
+        81,
+        82,
+        84,
+        85,
+        86
+      ],
+      "retorno": "17:00",
+      "despacho": null
+    },
+    {
+      "id": "huaquillas-1100",
+      "destino": "HUAQUILLAS",
+      "hora": "11:00",
+      "unidades": [
+        62,
+        63,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "retorno": "8:00",
+      "despacho": null
+    },
+    {
+      "id": "santa-elena-2345",
+      "destino": "SANTA ELENA",
+      "hora": "23:45",
+      "unidades": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "retorno": "17:00",
+      "despacho": null
+    },
+    {
+      "id": "tena-245",
+      "destino": "TENA",
+      "hora": "02:45",
+      "unidades": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "retorno": "20:00",
+      "despacho": null
+    }
+  ],
+  "advertencia": "Cuadro de una sola semana. Los números de disco no se deben aplicar automáticamente a otras semanas."
+}
